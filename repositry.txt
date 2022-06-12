@@ -1,0 +1,5 @@
+create reposty
+download gitbash
+developer tooken
+colone using gitbash
+push some file on from the computer to gitbash
