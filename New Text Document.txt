@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m “Custom message”
+git remote <remote url>
+git push -u origin <branch name>
